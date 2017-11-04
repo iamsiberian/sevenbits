@@ -1,0 +1,183 @@
+.general {
+
+    font-family: "Century Gothic", Century Gothic;
+    color: #434244;
+    background: bisque;
+    max-width: 2550px;
+    margin: 0 0 0 30px;
+}
+.general__indent {
+    padding: 0 0 0 110px;
+}
+
+.header{
+}
+.header__fullname {
+    font-size: 68px;
+    margin: 30px 0 0 0;
+    padding: 200px 0 0 0;
+}
+.header__profession{
+    font-size: 38px;
+    margin: 40px 0 0 0 ;
+}
+.header__adress{
+    font-size: 23px;
+    color: #9c9da0;
+    margin: 90px 0 0 0;
+}
+.header__contacts{
+    font-size: 23px;
+    color: #9c9da0;
+    margin: 35px 0 0 0;
+}
+.header__border-bottom {
+    margin: 130px 0 0 0;
+    padding: 15px;
+    border-bottom: solid 1px #9c9da0;
+}
+
+
+.photo-skills-software{
+    vertical-align: top;
+    display: inline-block;
+    width:35%;
+}
+.photo-skills-software__photo{
+    margin: 65px 0 0 0;
+    padding: 0 50px 0 0;
+    width: 100%;
+}
+
+
+.button-name {
+    display: inline-block;
+    margin: 65px 0 0 0;
+    font-size: 30px;
+    width: auto;
+    height: auto;
+    padding: 25px;
+    background: #e8c734;
+}
+
+.skills-software__content {
+    font-size: 24px;
+    margin: 40px 0 0 0;
+    padding: 15px 0 0 0;
+}
+.skills-software__progress {
+    position:relative;
+    width: 620px;
+    height: 28px;
+    border: 2px solid #c7c8cb;
+}
+.skills-software__bar {
+    background-color: #9c9da0;
+    height: 30px;
+}
+
+
+.personal-information{
+    vertical-align: top;
+    display: inline-block;
+    width: 63%;
+}
+.personal-information__indent {
+    padding: 0 0 0 110px;
+}
+.personal-information__content{
+    font-size: 24px;
+    margin: 40px 0 0 0;
+    padding: 15px 0 0 0;
+}
+
+.education{
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+}
+
+.personal-information__education_date {
+    vertical-align: top;
+    display: inline-block;
+    width: 15%;
+    font-size: 24px;
+    color: #828385;
+    margin: 65px 0 0 0;
+    padding: 15px 0 0 0;
+}
+
+.personal-information__education_content {
+    vertical-align: top;
+    display: inline-block;
+    width: 84%;
+    font-size: 24px;
+    margin: 65px 0 0 0;
+    padding: 15px 0 0 0;
+}
+
+.personal-information__education_qualification{
+    vertical-align: top;
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+    //margin: 40px 0 0 0;
+    padding: 15px 0 0 212px;
+}
+
+.personal-information__experience_date {
+    font-size: 27px;
+    font-style: italic;
+    color: #9c9da0;
+    margin: 65px 0 0 0;
+    padding: 15px 0 0 0;
+}
+
+.personal-information__experience_qualification {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+    font-size: 20px;
+    margin: 65px 0 0 0;
+}
+.personal-information__content_description {
+    font-size: 27px;
+    color: #9c9da0;
+    margin: 55px 0 0 0;
+    padding: 15px 0 0 0;
+}
+
+.reference {
+    display: inline-block;
+    vertical-align: top;
+    width: 100%;
+}
+.reference__left {
+    display: inline-block;
+    vertical-align: top;
+    width: 48%;
+}
+.reference__right{
+    display:inline-block;
+    vertical-align: top;
+    width: 48%;
+}
+.reference__name {
+    font-size: 20px;
+    margin: 50px 0 0 0;
+}
+.reference__qualification {
+    font-size: 24px;
+    margin: 30px 0 0 0;
+}
+.reference__contacts {
+    font-size: 27px;
+    color: #9c9da0;
+    margin: 22px 0 0 0;
+}
+
+.bottom-band {
+    height: 70px;
+    background: #e8c734;
+    margin: 130px 0 0 0;
+}
